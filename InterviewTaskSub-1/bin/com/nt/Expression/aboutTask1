@@ -1,0 +1,4 @@
+java program that will have the following  statement as the one of the 
+line in the code.
+it should not part of a comment and string.it should be a valid java expression
+does not have read and print and it should be compile and run without errors.
